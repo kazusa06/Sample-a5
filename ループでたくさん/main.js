@@ -10,7 +10,7 @@ window.onload = () => {
   //   CTX.fillRect(number,100,50,50);
   //   number += 100;
   // }
-
+  
   for (let i = 1; i < 16; i++) {
     CTX.fillStyle = 'black';
     CTX.fillRect(number,number2,50,50);
